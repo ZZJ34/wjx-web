@@ -1,0 +1,42 @@
+.gltd-list{
+  width:100%;
+}
+
+.gltd-list-item{
+  border:solid 3px #E0E0E0;
+  margin-top:20px;
+  margin-left:auto;
+  margin-right: auto;
+  width:750px;
+
+}
+  
+
+.gltd-item-image{
+  width: 160px;
+  margin: 15px;
+}
+
+.gltd-item-text{
+  border:solid 3px #E0E0E0;
+  margin:15px 15px 15px 10px;
+  padding-bottom:10px;
+}
+
+.gltd-item-title{
+  margin:15px 0 10px 10px;
+}
+
+.gltd-item-key{
+  vertical-align:top;
+}
+
+.gltd-item-value{
+  margin-left:10px;
+}
+
+.gltd-item-name{
+  display: block;
+  margin: 10px 0;
+  font-weight: bold;
+}
